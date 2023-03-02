@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou trabalhando como front-end
-- 🌱 Estou estudando HTML, CSS, JavaScript e ReactJS.
+- 🌱 Estou estudando HTML, CSS/SASS, JavaScript ES6 e ReactJS.
 - 📫 Contate-me no e-mail: flaviomarques2@hotmail.com
 
 <div>
