@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!
 
-
+- Cientista da computação em formação
 - 🔭 Hoje estou trabalhando como front-end
 - 🌱 Estou estudando HTML, CSS, SASS, JavaScript ES6, ReactJS, MySQL e PHP.
 - 📫 Contate-me no e-mail: flaviomarques2@hotmail.com
