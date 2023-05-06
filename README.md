@@ -1,9 +1,13 @@
 ## Olá, eu sou o Flávio!
 
-- Cientista da computação em formação
-- 🔭 Hoje estou trabalhando como front-end
-- 🌱 Estou estudando HTML, CSS, SASS, JavaScript ES6 e ReactJS.
-- 📫 Contate-me no e-mail: flaviomarques2@hotmail.com
+Desenvolvedor front-end, estou constantemente estudando e aprendendo HTML, CSS, SASS, JavaScript e ReactJS.
+Me encontrei na tecnologia e na programação resolvendo problemas diariamente, buscando melhorar 1% todos os dias.
+
+Estudante, viajante, guitarrista e jogador de boardgames :D
+
+ <a href = "mailto:flaviomarques2@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/msflavio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div>
   <a href="https://github.com/marquesflavio">
@@ -24,6 +28,4 @@
 </p>
   <hr>
   
-  <a href = "mailto:flaviomarques2@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/msflavio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
