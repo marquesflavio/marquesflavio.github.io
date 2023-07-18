@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!
 
-Desenvolvedor front-end, estou constantemente estudando e aprendendo.
+Desenvolvedor full stack, estou constantemente estudando e aprendendo.
 Me encontrei na tecnologia e na programação.
 
 Estudante, viajante, guitarrista e jogador de boardgames :D
