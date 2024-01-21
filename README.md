@@ -1,9 +1,13 @@
-## Olá, eu sou o Flávio!
+## Olá, seja bem vindo! :D
 
-Desenvolvedor web e mobile, estou constantemente estudando e aprendendo.
-Me encontrei na tecnologia e na programação.
+Sou o Flávio, tenho 31 anos. Sou casado com a Tatiane, pessoa com quem adoro planejar e por em prática, melhorias pessoais e profissionais. Sou um cara bem humorado, e muito focado.
 
-Estudante, viajante, guitarrista e jogador de boardgames :D
+Experiência prévia: Antes de virar desenvolvedor, trabalhei com contabilidade. Foram 15 anos em escritório de contabilidade fazendo de tudo, de office boy a chefe de departamento. Trago uma bagagem gigante de conhecimento técnico e de softskill.
+
+Experiência como dev: Em 2023 migrei para o desenvolvimento e atualmente trabalho em uma empresa de telemedicina aqui de São José/SC. Entrei sabendo o básico de HTML, CSS e JavaScript. 
+Conquistei meu espaço e hoje atuo com ReactJS, com C# no ambiente .NET e Flutter na construção de aplicativos! A vivência e a prática me trouxeram uma noção melhor de quão gigante e maravilhoso é o mundo dev, estou muito feliz por ter me encontrado profissionalmente.
+
+Próximos passos como dev: Meu foco atual é o desenvolvimento no Front end, principalmente ReactJS/NextJS, venho trabalhando em projetos individuais para aumentar minha confiança e meu conhecimento nesta ferramenta para futuramente chegar a grandes cargos, como arquiteto de front end.
 
  <a href = "mailto:flaviomarques2@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   
