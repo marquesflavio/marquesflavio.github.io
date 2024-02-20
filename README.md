@@ -1,6 +1,4 @@
-## Olá, seja bem vindo! :D
-
-Sou o Flávio, tenho 31 anos. Sou casado com a Tatiane, pessoa com quem adoro planejar e por em prática, melhorias pessoais e profissionais. Sou um cara bem humorado, e muito focado.
+## Olá, eu sou o Flávio! :D
 
 Experiência prévia: Antes de virar desenvolvedor, trabalhei com contabilidade. Foram 15 anos em escritório de contabilidade fazendo de tudo, de office boy a chefe de departamento. Trago uma bagagem gigante de conhecimento técnico e de softskill.
 
