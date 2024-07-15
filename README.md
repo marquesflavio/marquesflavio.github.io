@@ -1,11 +1,9 @@
 ## Olá, eu sou o Flávio! :D
 
-Experiência prévia: Antes de virar desenvolvedor, trabalhei com contabilidade. Foram 15 anos em escritório de contabilidade fazendo de tudo, de office boy a chefe de departamento. Trago uma bagagem gigante de conhecimento técnico e de softskill.
-
 Experiência como dev: Em 2023 migrei para o desenvolvimento e atualmente trabalho em uma empresa de telemedicina aqui de São José/SC. Entrei sabendo o básico de HTML, CSS e JavaScript. 
-Conquistei meu espaço e hoje atuo com ReactJS, com C# no ambiente .NET e Flutter na construção de aplicativos! A vivência e a prática me trouxeram uma noção melhor de quão gigante e maravilhoso é o mundo dev, estou muito feliz por ter me encontrado profissionalmente.
+Conquistei meu espaço e hoje atuo como desenvolvedor fullstack, utilizando React com JavaScript e TypeScript, e C# no ambiente .NET e também Flutter na construção de aplicativos! A vivência e a prática me trouxeram uma noção melhor de quão gigante e maravilhoso é o mundo dev, estou muito feliz por ter me encontrado profissionalmente.
 
-Próximos passos como dev: Meu foco atual é o desenvolvimento no Front e no Back end, principalmente ReactJS e C#, venho trabalhando em projetos individuais para aumentar minha confiança e meu conhecimento nestas ferramentas para futuramente chegar a grandes cargos, como arquiteto de software.
+Próximos passos como dev: Meu foco atual é o desenvolvimento no Front e no Back end, principalmente React e C#, venho trabalhando em projetos individuais para aumentar minha confiança e meu conhecimento nestas ferramentas para futuramente chegar a grandes cargos, como arquiteto de software.
 
  <a href = "mailto:flaviomarques2@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   
