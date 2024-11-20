@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Flávio</h1>
 <h3 align="center">A fullstack developer from Brazil!</h3>
 
-Experiência como dev: Em 2023 migrei para o desenvolvimento e atualmente trabalho em uma empresa de telemedicina aqui de São José/SC. Entrei sabendo o básico de HTML, CSS e JavaScript. 
-Conquistei meu espaço e hoje atuo como desenvolvedor fullstack, utilizando React com JavaScript e TypeScript, e C# no ambiente .NET e também Flutter na construção de aplicativos! A vivência e a prática me trouxeram uma noção melhor de quão gigante e maravilhoso é o mundo dev, estou muito feliz por ter me encontrado profissionalmente.
-
-Próximos passos como dev: Meu foco atual é o desenvolvimento no Front e no Back end, principalmente React e C#, venho trabalhando em projetos individuais para aumentar minha confiança e meu conhecimento nestas ferramentas para futuramente chegar a grandes cargos, como arquiteto de software.
-
 <h3 align="left">Connect with me:</h3>
  <a href = "mailto:flaviomarques2@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/marquesflavio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
